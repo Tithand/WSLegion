@@ -1,1 +1,1 @@
-# WSLegion
+first legion 7.2.5 WS
